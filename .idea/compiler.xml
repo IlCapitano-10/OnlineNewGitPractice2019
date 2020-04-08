@@ -9,5 +9,8 @@
         <module name="OnlineNewGitPractice2019" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="OnlineNewGitPractice2019" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
